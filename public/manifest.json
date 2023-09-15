@@ -1,0 +1,14 @@
+{
+  "name": "Text Summerization",
+  "description": "Personalized extension to summerize your content",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+      "default_title": "Text Summerization",
+      "default_popup": "index.html",
+      "default_icon": {
+          "16": "logo192.png",
+          "128": "logo192.png"
+      }
+  }
+}
